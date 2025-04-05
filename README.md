@@ -31,20 +31,30 @@ Perfect for those who want quick access to media content without navigating manu
 
 ## ✨ Features
 
-✅ Command-line interface (CLI)  
-✅ Dynamic YouTube search & play  
-✅ Download videos using just the URL  
-✅ Supports various YouTube formats  
-✅ Lightweight, no GUI or heavy dependencies  
-✅ Beginner-friendly  
+- Command-line interface (CLI)
+- Dynamic YouTube search & play
+- Download videos using just the URL
+- Supports various YouTube formats
+- Lightweight, no GUI or heavy dependencies
+- Beginner-friendly  
 
 ---
 
 ## ⚙️ Installation
 
-Make sure you have **Python 3.6+** installed.
+Make sure you have `Python 3.6+` installed.
 
 Install the required dependency:
 
 ```bash
 pip install yt-dlp
+```
+Optionally, install `ffmpeg` to allow `yt_dlp` to convert video/audio formats:
+
+- Windows: https://ffmpeg.org/download.html
+
+- macOS: brew install ffmpeg
+
+- Linux: sudo apt install ffmpeg
+
+https://ffmpeg.org/download.html
