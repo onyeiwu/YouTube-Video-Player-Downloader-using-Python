@@ -134,7 +134,7 @@ print("Video downloaded successfully")
 - `yt_dlp` – Enhanced YouTube downloader
 - `Python 3.x` – Core programming language
 
-##💡 Use Cases
+## 💡 Use Cases
  - Quick access to YouTube music without typing in browser
  - Download tutorial videos for offline learning
  - Extract and archive video content from lectures/webinars
